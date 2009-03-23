@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.TiffWriter">
+    <Position X="0.5" Y="4.75" Width="3" />
+    <TypeIdentifier>
+      <FileName>TiffWriter.cs</FileName>
+      <HashCode>AAAAAAAAAAAAIAAAAEAAAAAAgAAAAAAAAAAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.TiffDocument">
+    <Position X="3.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>TiffDocument.cs</FileName>
+      <HashCode>BAAIgIAAAAAAAEAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.TiffReader">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <FileName>TiffReader.cs</FileName>
+      <HashCode>AAAxABAAAAAAoAAQAAEAAAACgACAAAACAABAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.ImageFileTag">
+    <Position X="10.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>ImageFileTag.cs</FileName>
+      <HashCode>AAAAAABAAAAAAAQAIIAAAAQAAAAAACAAAACgAABAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.ByteArray">
+    <Position X="10.25" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>ByteArray.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.Header">
+    <Position X="7.25" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>Header.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAABAAAAAAAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.ImageFile">
+    <Position X="7.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>ImageFile.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.ByteOrder">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Enums.cs</FileName>
+      <HashCode>EAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.TagCode" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>Enums.cs</FileName>
+      <HashCode>IEDQoMABE4F0DiGgAVAADGGgAKACBgVoGMqACRMABpA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.TagType">
+    <Position X="4.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Enums.cs</FileName>
+      <HashCode>AAAAAAEgAEAAABCCAAAAAAAABAACAQBAAAAAAAAgACA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.Compression">
+    <Position X="6.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Enums.cs</FileName>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAEACAAAAQAAAAACAAAAAAAQA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="guercheLE.Drawing.Imaging.ImageFormat.Tiff.PhotometricInterpretation">
+    <Position X="8" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>Enums.cs</FileName>
+      <HashCode>AAAAAAIAAAUAAQAAAAAgAAAAAAAAAAAAAAAAAAgAIAQ=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

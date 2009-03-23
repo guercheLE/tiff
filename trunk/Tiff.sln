@@ -1,0 +1,24 @@
+
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiff", "Tiff\Tiff.csproj", "{D57A7935-2038-4D82-A8DC-6E8C1CE3DE4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829F45D2-9B89-49AF-B63A-025CBC0A1CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829F45D2-9B89-49AF-B63A-025CBC0A1CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829F45D2-9B89-49AF-B63A-025CBC0A1CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829F45D2-9B89-49AF-B63A-025CBC0A1CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57A7935-2038-4D82-A8DC-6E8C1CE3DE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57A7935-2038-4D82-A8DC-6E8C1CE3DE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57A7935-2038-4D82-A8DC-6E8C1CE3DE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57A7935-2038-4D82-A8DC-6E8C1CE3DE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
